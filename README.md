@@ -5,6 +5,7 @@
 
 <div>
   <img align="left" alt="Matheus-gif" height="340" width="350" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
+  <br>
   <a href="https://github.com/Matheus-B-R">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-B-R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-B-R&layout=compact&langs_count=7&theme=tokyonight"/> 
