@@ -4,7 +4,7 @@
 - 😄 Pronouns: Him/His
 
 <div>
-  <img align="left" alt="Matheus-gif" height="320" width="350" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
+  <img align="left" alt="Matheus-gif" height="320" width="380" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
   <br>
   <a href="https://github.com/Matheus-B-R">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-B-R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
