@@ -1,7 +1,6 @@
 ## Hi, there! Welcome to my GitHub profile!
 
 - 🌱 I’m currently studying JavaScript, Python, C and C++ 
-- 😄 Pronouns: Him/His
 
 <div>
   <img align="left" alt="Matheus-gif" height="320" width="455" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
