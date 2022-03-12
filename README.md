@@ -1,6 +1,6 @@
 ## Hi, there! Welcome to my GitHub profile!
 
-- 🌱 I’m currently studying JavaScript, Python, C and C++ 
+- 🌱 I’m currently studying Java, Python and C language 
 
 <div>
   <img align="left" alt="Matheus-gif" height="300" width="452" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
