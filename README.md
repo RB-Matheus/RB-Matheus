@@ -1,7 +1,5 @@
 ## Hi, there! Welcome to my GitHub profile!
 
-- 🌱 I’m currently studying Java, Python and C language 
-
 <div>
   <img align="left" alt="Matheus-gif" height="300" width="828" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
   <a href="https://github.com/Matheus-B-R">
@@ -12,8 +10,6 @@
 ##
   
 <div style="display: inline_block"><br> 
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Matheus-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">   
 </div>
