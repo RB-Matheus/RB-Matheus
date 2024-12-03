@@ -124,7 +124,7 @@ Hi, there. I'm Matheus.
 </p>
 
 
-# <img src="cat-robot.gif" alt="GitHub Robot" width="30" height="30" /> Stats
+# <img src="statistics-trending-up.gif" alt="Stats" width="30" height="30" /> Stats
 
 <div align="center">
   
