@@ -138,7 +138,7 @@ Hi, there. I'm Matheus.
     </td>
     <td>
     
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RB-Matheus&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RB-Matheus&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" width="100%">
     </td>
   </tr>
   <tr>
