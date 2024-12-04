@@ -153,7 +153,7 @@ Hi, there. I'm Matheus.
 
 # <img src="anime-yourname.gif" alt="reach me" width="30" height="30" /> Reach out to me
 
-<div>
-  <a href = "mailto:contatorbmatheus2357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="100" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-barros-rosa-2a3412199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="127" target="_blank"></a> 
+<div align="center">
+  <a href = "mailto:contatorbmatheus2357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="95" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-barros-rosa-2a3412199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="121" target="_blank"></a> 
 </div>
