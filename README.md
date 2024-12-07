@@ -151,7 +151,7 @@ Hi, there. I'm Matheus.
 
 </div>
 
-# <img src="anime-yourname.gif" alt="reach me" width="30" height="30" /> Reach out to me
+# <img src="anime-yourname.gif" alt="reach me" width="30" height="30" /> Connect with me
 
 <div align="center">
   <a href = "mailto:contatorbmatheus2357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="95" target="_blank"></a>
