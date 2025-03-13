@@ -8,7 +8,7 @@ Hi, there. I'm Matheus.
 # <img src="github-logo.gif" alt="GitHub Logo" width="30" height="30" /> About me
 
 - 🚀 **I’m a Full Stack Software Engineer.**
-- 🌱 **I’m currently diving into Formal Specification.**
+- 🌱 **I’m currently diving into Machine Learning.**
 - 📢 **Love to learn & share with the community.**
 - 🤝 **Always open to building meaningful connections.**
 
